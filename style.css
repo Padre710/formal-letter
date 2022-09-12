@@ -1,0 +1,22 @@
+
+.all{
+  padding: 150px;
+}
+.address1{
+  text-align: right;
+  line-height: 0.5;
+}
+.address2{
+  text-align: left;
+  line-height: 0.5;
+}
+.heading{
+  text-align: center;
+  text-decoration: underline;
+  
+}
+.sign{
+  padding-top: 50px;
+  text-align: right;
+  line-height: 0.5;
+}
